@@ -692,7 +692,7 @@ def action():
 
 
 
-                    print '\x1b[1;92m  SHOBI-Cp ' + k + c + user + '  |  ' + pass2
+                    print '\x1b[1;92m  SHOBI-OK ' + k + c + user + '  |  ' + pass2
 
 
 
@@ -732,7 +732,7 @@ def action():
 
 
 
-                        print '\x1b[1;92m  SHOBI-Ok  ' + k + c + user + '  |  ' + pass3
+                        print '\x1b[1;92m  SHOBI-OK  ' + k + c + user + '  |  ' + pass3
 
 
 
